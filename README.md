@@ -74,6 +74,7 @@ Steps 5–6 are deterministic for the same tool versions. `manifest.json` in the
 payload file, so you can compare a rebuild with the published release.
 
 ## Credits & licences
+- Repository content (translation, tools, installer, docs): MIT License, see `LICENSE`.
 - Translation and tools: B_H_W.
 - Font: Changa, Copyright 2018 The Changa Project Authors (https://github.com/googlefonts/changa-vf), SIL Open Font
   License 1.1 (`third_party/changa/OFL.txt`). The release contains a modified static copy named "REPO AR Changa".
