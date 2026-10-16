@@ -1,0 +1,192 @@
+BIG_MESSAGE.EXTRACTION.ACTIVATED	تم تفعيل نقطة الاستخراج
+BIG_MESSAGE.EXTRACTION.COMPLETED	اكتملت نقطة الاستخراج
+FOCUS.EXTRACTION.FILL_VALUABLES	املأ نقطة الاستخراج بالأشياء الثمينة
+FOCUS.EXTRACTION.AVOID_GRENADES	تجنب القنابل!
+FOCUS.EXTRACTION.FIND_NEXT	ابحث عن نقطة الاستخراج التالية
+FOCUS.EXTRACTION.BACK_TO_TRUCK	عد إلى الشاحنة!
+TUTORIAL.TRANSITION_TEXT	أحسنت!
+TUTORIAL.MOVEMENT.TEXT	استخدم [move] للتحرك.
+TUTORIAL.MOVEMENT.FOCUS_TEXT	تحرك لملء شريط التقدم!
+TUTORIAL.MOVEMENT.DUMMY_TEXT	استخدم [move] على لوحة المفاتيح حتى يمتلئ شريط التقدم!
+TUTORIAL.JUMPING.TEXT	اضغط [jump] للقفز.
+TUTORIAL.JUMPING.FOCUS_TEXT	اقفز لملء شريط التقدم!
+TUTORIAL.JUMPING.DUMMY_TEXT	اضغط [jump] لتقفز حتى يمتلئ شريط التقدم!
+TUTORIAL.SNEAKING.TEXT	اضغط [crouch] للتسلل. ستقل احتمالية أن تراك الوحوش.
+TUTORIAL.SNEAKING.FOCUS_TEXT	تسلل لملء شريط التقدم!
+TUTORIAL.SNEAKING.DUMMY_TEXT	استمر بالضغط على [crouch] واستخدم [move] حتى يمتلئ شريط التقدم!
+TUTORIAL.HIDING.TEXT	استخدم [crouch] للتسلل تحت الأشياء والاختباء.
+TUTORIAL.HIDING.FOCUS_TEXT	اختبئ لملء شريط التقدم!
+TUTORIAL.HIDING.DUMMY_TEXT	استمر بالضغط على [crouch] وادخل تحت أحد الأغراض، وابق هناك حتى يمتلئ شريط التقدم!
+TUTORIAL.SPRINTING.TEXT	استمر بالضغط على [sprint] للركض. هذا يستنزف طاقتك.
+TUTORIAL.SPRINTING.FOCUS_TEXT	اركض لملء شريط التقدم!
+TUTORIAL.SPRINTING.DUMMY_TEXT	استمر بالضغط على [sprint] واستخدم [move] للركض حتى يمتلئ شريط التقدم! إذا نفدت الطاقة فانتظر حتى تتجدد!
+TUTORIAL.TUMBLING.TEXT	اركض واضغط [tumble] لتسقط بأناقة. القفز يساعد أيضا!
+TUTORIAL.TUMBLING.FOCUS_TEXT	اركض واقفز واسقط لملء شريط التقدم!
+TUTORIAL.TUMBLING.DUMMY_TEXT	اركض باستخدام [sprint] واقفز باستخدام [jump] ثم اضغط [tumble] لترمي بنفسك. كرر ذلك حتى يمتلئ شريط التقدم!
+TUTORIAL.GRABBING.TEXT	أمسك الأشياء باستخدام [grab].
+TUTORIAL.GRABBING.FOCUS_TEXT	احمل ذلك الشيء لملء شريط التقدم!
+TUTORIAL.GRABBING.DUMMY_TEXT	اضغط مطولا على [grab] فوق شيء ما حتى يمتلئ شريط التقدم!
+TUTORIAL.PUSHING_AND_PULLING.TEXT	استخدم [push] لتغيير مسافة الأشياء التي تمسكها.
+TUTORIAL.PUSHING_AND_PULLING.FOCUS_TEXT	غير مسافة شيء تمسكه!
+TUTORIAL.PUSHING_AND_PULLING.DUMMY_TEXT	اضغط مطولا على [grab] فوق شيء ما، واستخدم [push] لتغيير مسافة الشيء الذي أمسكته!
+TUTORIAL.ROTATING.TEXT	دور الأشياء التي تمسكها باستخدام [grab2].
+TUTORIAL.ROTATING.FOCUS_TEXT	دور الأشياء لملء شريط التقدم!
+TUTORIAL.ROTATING.DUMMY_TEXT	أثناء إمساك شيء باستخدام [grab]، اضغط مطولا على [grab2] وحرك تصويبك لتدويره. واصل التدوير حتى يمتلئ شريط التقدم!
+TUTORIAL.ITEM_TOGGLING.TEXT	أمسك أداة واضغط [interact] لتشغيلها وإيقافها.
+TUTORIAL.ITEM_TOGGLING.FOCUS_TEXT	شغل ذلك الشيء وأطفئه!
+TUTORIAL.ITEM_TOGGLING.DUMMY_TEXT	أمسك الكرة باستخدام [grab] وشغلها وأطفئها باستخدام [interact] حتى يمتلئ شريط التقدم!
+TUTORIAL.INVENTORY_FILL.TEXT	أمسك أداة واستخدم [inventory1]/[inventory2]/[inventory3] لوضعها في حقيبتك.
+TUTORIAL.INVENTORY_FILL.FOCUS_TEXT	املأ حقيبتك بالكامل!
+TUTORIAL.INVENTORY_FILL.DUMMY_TEXT	أثناء إمساك أداة باستخدام [grab]، اضغط [inventory1]/[inventory2]/[inventory3]. املأ كل خانات حقيبتك لإكمال شريط التقدم!
+TUTORIAL.INVENTORY_EMPTY.TEXT	استخدم [inventory1]/[inventory2]/[inventory3] لإخراج الأدوات من حقيبتك.
+TUTORIAL.INVENTORY_EMPTY.FOCUS_TEXT	أفرغ حقيبتك بالكامل!
+TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT	استخدم [inventory1]/[inventory2]/[inventory3] وأفرغ كل الخانات لملء شريط التقدم!
+TUTORIAL.MAP.TEXT	استخدم [map] لعرض الخريطة. الخريطة <b><u>مهمة</u></b> للتنقل.
+TUTORIAL.MAP.FOCUS_TEXT	تفقد الخريطة!
+TUTORIAL.MAP.DUMMY_TEXT	استمر بالضغط على [map] وانظر إليها حتى يمتلئ شريط التقدم!
+TUTORIAL.CART_HANDLING_1.TEXT	هذه هي العربة. أمسكها من مقبضها.
+TUTORIAL.CART_HANDLING_1.FOCUS_TEXT	تجول بالعربة قليلا!
+TUTORIAL.CART_HANDLING_1.DUMMY_TEXT	أمسك العربة من مقبضها باستخدام [grab] وتجول بها حتى يمتلئ شريط التقدم!
+TUTORIAL.CART_HANDLING_2.TEXT	املأ العربات بالأشياء الثمينة. العربات <b><u>مهمة</u></b> لحمل المزيد من الأغراض.
+TUTORIAL.CART_HANDLING_2.FOCUS_TEXT	املأ العربة بالأشياء الثمينة!
+TUTORIAL.CART_HANDLING_2.DUMMY_TEXT	ضع ثلاثة أغراض في العربة.
+TUTORIAL.EXTRACTION_POINTS.TEXT	فعل <b><u>نقاط الاستخراج</u></b> واملأها بالأشياء الثمينة.
+TUTORIAL.EXTRACTION_POINTS.FOCUS_TEXT	استخرج الأشياء الثمينة!
+TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT	مرحبا! املأ <b><u>نقطة الاستخراج</u></b> بالأشياء الثمينة!
+TUTORIAL.TRUCK.TEXT	ادخل <b><u>الشاحنة</u></b> وأرسل رسالة إلى مديرك لمغادرة المستوى.
+TUTORIAL.TRUCK.FOCUS_TEXT	اركب الشاحنة وأرسل رسالة!
+TUTORIAL.TRUCK.DUMMY_TEXT	ادخل الشاحنة، ثم أمسك منطقة الرسالة على شاشة الشاحنة باستخدام [grab] واستمر بالإمساك لإرسال رسالة!
+TUTORIAL.HEALING.TEXT	شارك صحتك مع اللاعبين الآخرين بالإمساك برقابهم!
+TUTORIAL.REVIVING.TEXT	أعد إحياء اللاعبين الآخرين باستخراج رؤوسهم!
+TUTORIAL.CHARGING_STATION.TEXT	اشتر <b><u>بلورات الطاقة</u></b> من أجل <b><u>محطة الشحن</u></b> لإعادة شحن معداتك وإصلاحها!
+TUTORIAL.ONLY_ONE_EXTRACTION.TEXT	يمكن تفعيل <b><u>نقطة استخراج</u></b> واحدة فقط في كل مرة، ابحث عن النقطة الحالية باستخدام خريطتك!
+TUTORIAL.CHAT.TEXT	اضغط [chat] لفتح الدردشة! إنها ممتعة!
+TUTORIAL.FINAL_EXTRACTION.TEXT	حان وقت المغادرة، الشاحنة تعالجك وتعيد إحياء رؤوس اللاعبين المحمولة!
+TUTORIAL.MULTIPLE_EXTRACTIONS.TEXT	يحتوي هذا المستوى على عدة <b><u>نقاط استخراج</u></b>، يجب أن تنهيها كلها لتغادر!
+TUTORIAL.SHOP.TEXT	هذا هو <b><u>المتجر</u></b>، استخرج الأدوات لشرائها. لا ضرر يدوم هنا!
+TUTORIAL.EXPRESSIONS.TEXT	استخدم [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6] لصنع التعابير. يمكنك حتى المزج بينها!
+TUTORIAL.OVERCHARGE_1.TEXT	إمساك وحش سيسبب الآن شحنا زائدا، وعندما يمتلئ ستتطاير بعيدا.
+TUTORIAL.OVERCHARGE_2.TEXT	تعاون عدة أشخاص يخفف من تأثير الشحن الزائد.
+TUTORIAL.HEAD_SPECTATE_1.TEXT	عندما تكون ميتا يشحن رأسك، استخدم تلك الشحنة للسيطرة على رأسك لفترة قصيرة.
+TUTORIAL.HEAD_SPECTATE_2.TEXT	أثناء السيطرة على رأسك، اضغط مطولا على [jump] للقفز. اضغط مدة أطول لتقفز أعلى بتكلفة أكبر.
+TUTORIAL.ENEMY_ELSA.TEXT	داعب الكلب!
+MOON_UI.SKIP	[menu] للتخطي
+TUTORIAL.EXTRACTION_REMINDER.TEXT	املأ <b><u>نقاط الاستخراج</u></b> بالأشياء الثمينة.
+TUTORIAL.COSMETIC_WORLD_OBJECT_1.TEXT	هذا <b><u>صندوق إكسسوارات</u></b>، استخرجه لتحصل على مكافأة.
+TUTORIAL.COSMETIC_WORLD_OBJECT_2.TEXT	إذا تضرر، يمكنك <b><u>علاجه</u></b> باستخدام صحتك.
+TUTORIAL.COSMETIC_SHOP_MACHINE.TEXT	أدخل <b><u>قسائم الضرائب</u></b> في آلة المتجر لتحصل على مكافآتك.
+FOCUS.PREFIX	الهدف
+FOCUS.SHOP.INTRO	اشتر أغراضا من المتجر
+FOCUS.TRUCK.INTRO	استمتع بالرحلة، اشحن معداتك وتجهز!
+COSMETIC_SHOP_MACHINE.INFO_TEXT	اضغط [interact] لإدخال قسيمة ضرائب
+ITEM.CART_CANNON	مدفع العربة
+ITEM.CART_LASER	ليزر العربة
+ITEM.CART_MEDIUM	العربة
+ITEM.CART_SMALL	عربة الجيب
+ITEM.DRONE_BATTERY	مسيرة الشحن
+ITEM.DRONE_FEATHER	مسيرة الريشة
+ITEM.DRONE_INDESTRUCTIBLE	المسيرة المنيعة
+ITEM.DRONE_TORQUE	مسيرة الدحرجة
+ITEM.DRONE_ZERO_GRAVITY	مسيرة انعدام الجاذبية
+ITEM.DUCK_BUCKET	دلو البط
+ITEM.EXTRACTION_TRACKER	متعقب الاستخراج
+ITEM.GRENADE_DUCT_TAPED	قنابل ملفوفة بشريط لاصق
+ITEM.GRENADE_EXPLOSIVE	قنبلة يدوية
+ITEM.GRENADE_HUMAN	القنبلة البشرية
+ITEM.GRENADE_SHOCKWAVE	قنبلة الموجة الصادمة
+ITEM.GRENADE_STUN	قنبلة الصعق
+ITEM.GUN_HANDGUN	مسدس
+ITEM.GUN_LASER	مفجر الفوتونات
+ITEM.GUN_SHOCKWAVE	مسدس النبض
+ITEM.GUN_SHOTGUN	بندقية خرطوش
+ITEM.GUN_STUN	مسدس الصعق
+ITEM.GUN_TRANQ	مسدس التخدير
+ITEM.HEALTH_PACK_LARGE	حقيبة إسعاف كبيرة (100)
+ITEM.HEALTH_PACK_MEDIUM	حقيبة إسعاف متوسطة (50)
+ITEM.HEALTH_PACK_SMALL	حقيبة إسعاف صغيرة (25)
+ITEM.LEAF_BLOWER	منفاخ أوراق
+ITEM.MELEE_BASEBALL_BAT	مضرب بيسبول
+ITEM.MELEE_FRYING_PAN	مقلاة
+ITEM.MELEE_INFLATABLE_HAMMER	مطرقة منفوخة
+ITEM.MELEE_SLEDGE_HAMMER	مطرقة ثقيلة
+ITEM.MELEE_STUN_BATON	عصا الصعق
+ITEM.MELEE_SWORD	سيف
+ITEM.MINE_EXPLOSIVE	لغم متفجر
+ITEM.MINE_SHOCKWAVE	لغم الموجة الصادمة
+ITEM.MINE_STUN	فخ الصعق
+ITEM.ORB_ZERO_GRAVITY	كرة انعدام الجاذبية
+ITEM.PHASE_BRIDGE	الجسر الطوري
+ITEM.POWER_CRYSTAL	بلورة طاقة
+ITEM.REVIVE_ITEM	جهاز الإنعاش
+ITEM.RUBBER_DUCK	بطة مطاطية
+ITEM.STAFF_TORQUE	عصا الدحرجة
+ITEM.STAFF_VOID	عصا الفراغ
+ITEM.STAFF_ZERO_GRAVITY	عصا انعدام الجاذبية
+ITEM.UPGRADE_DEATH_HEAD_BATTERY	ترقية بطارية الرأس الميت
+ITEM.UPGRADE_MAP_PLAYER_COUNT	ترقية عدد اللاعبين على الخريطة
+ITEM.UPGRADE_PLAYER_CROUCH_REST	ترقية استراحة الانحناء
+ITEM.UPGRADE_PLAYER_ENERGY	ترقية الطاقة
+ITEM.UPGRADE_PLAYER_EXTRA_JUMP	ترقية القفزة الإضافية
+ITEM.UPGRADE_PLAYER_GRAB_RANGE	ترقية المدى
+ITEM.UPGRADE_PLAYER_GRAB_STRENGTH	ترقية القوة
+ITEM.UPGRADE_PLAYER_HEALTH	ترقية الصحة
+ITEM.UPGRADE_PLAYER_SPRINT_SPEED	ترقية سرعة الركض
+ITEM.UPGRADE_PLAYER_TUMBLE_CLIMB	ترقية تسلق التدحرج
+ITEM.UPGRADE_PLAYER_TUMBLE_LAUNCH	ترقية انطلاق التدحرج
+ITEM.UPGRADE_PLAYER_TUMBLE_WINGS	ترقية أجنحة التدحرج
+ITEM.VALUABLE_TRACKER	متعقب الأشياء الثمينة
+ITEM.VEHICLE_SEMISCOOTER	الناقلة
+ITEM.VEHICLE_SEMISCOOTER_SMALL	المستكشف
+ITEM.WALKIE_TALKIE	لاسلكي سيميبوت
+ITEM.WALKIE_TALKIE_BOX	لاسلكيات سيميبوت
+STATS.UPGRADES.HEADER	الترقيات
+LEVEL.HEADER	المستوى
+STATS.UPGRADE.CROUCH_REST	استراحة الانحناء
+STATS.UPGRADE.DEATH_HEAD_BATTERY	بطارية الرأس الميت
+STATS.UPGRADE.EXTRA_JUMP	قفزة إضافية
+STATS.UPGRADE.HEALTH	الصحة
+STATS.UPGRADE.LAUNCH	انطلاق التدحرج
+STATS.UPGRADE.MAP_PLAYER_COUNT	عدد اللاعبين على الخريطة
+STATS.UPGRADE.RANGE	المدى
+STATS.UPGRADE.SPEED	سرعة الركض
+STATS.UPGRADE.STAMINA	الطاقة
+STATS.UPGRADE.STRENGTH	القوة
+STATS.UPGRADE.TUMBLE_CLIMB	تسلق التدحرج
+STATS.UPGRADE.TUMBLE_WINGS	أجنحة التدحرج
+ENEMY.ANIMAL	الحيوان
+ENEMY.BANG	المفرقعة
+ENEMY.BEAMER	المهرج
+ENEMY.BIRTHDAY_BOY	فتى عيد الميلاد
+ENEMY.BOMB_THROWER	طاقم التنظيف
+ENEMY.BOWTIE	بابيون
+ENEMY.CEILING_EYE	المتلصص
+ENEMY.DUCK	المفترس الأعلى
+ENEMY.ELSA	إلسا
+ENEMY.FLOATER	العراف
+ENEMY.GNOME	القزم
+ENEMY.HEAD	هيدمان
+ENEMY.HEAD_GRABBER	خاطف الرؤوس
+ENEMY.HEART_HUGGER	معانق القلوب
+ENEMY.HIDDEN	الخفي
+ENEMY.HUNTER	الصياد
+ENEMY.OOGLY	أوغلي
+ENEMY.ROBE	الرداء
+ENEMY.RUNNER	الحاصد
+ENEMY.SHADOW	المتربص
+ENEMY.SLOW_MOUTH	المتقيئ
+ENEMY.SLOW_WALKER	المتثاقل
+ENEMY.SPINNY	المقامر
+ENEMY.THIN_MAN	طفل الظل
+ENEMY.TICK	القرادة
+ENEMY.TRICYCLE	بيلا
+ENEMY.TUMBLER	الطاهي
+ENEMY.UPSCREAM	الصارخ
+ENEMY.VALUABLE_THROWER	الشقي
+UPGRADE_STAND.INTERACT	اضغط مطولا لإعادة السحب ({cost})
+ARENA.WINNER.KING	ملك الخاسرين!
+ARENA.WINNER.LOSERS	الجميع خاسرون!
+ARENA.MESSAGE.LAST_LOSER_STANDING	آخر خاسر صامد
+ARENA.MESSAGE.GAME_OVER	انتهت اللعبة
+SPECTATE_LIST.HEADER	المحطمون:
+ITEM.CART.MODE_STRONG	الوضع: قوي
+ITEM.CART.MODE_WEAK	الوضع: ضعيف

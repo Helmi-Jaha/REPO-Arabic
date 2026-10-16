@@ -1,0 +1,10 @@
+# game-derived or generated files (never commit game data)
+original/
+extracted/
+build/
+build_fonts/
+fontpatch_build/
+package/
+addon_build/
+__pycache__/
+*.pyc
